@@ -1,7 +1,5 @@
 # ⚡ Nginx Load Balancer Setup
 
-Script automatizado para configuração de **Proxy Reverso e Balanceamento de Carga com Nginx** em ambientes Linux.
-
 Este projeto fornece um **script Bash simples e robusto** que instala, configura e ativa automaticamente um servidor **Nginx como Load Balancer**, permitindo distribuir requisições entre múltiplos servidores backend.
 
 Ideal para ambientes de **produção, VPS, servidores dedicados ou clusters internos**.
